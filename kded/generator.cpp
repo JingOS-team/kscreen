@@ -556,7 +556,9 @@ qreal Generator::bestScaleForOutput(const KScreen::OutputPtr &output) {
 
     //if reported DPI is closer to two times normal DPI, followed by a sanity check of having the sort of vertical resolution
     //you'd find in a high res screen
-    if (dpi > 96 * 1.5 && mode->size().height() >= 1440) {
+    if (dpi > 96 * 2.5) {
+        return 3.0;
+    } else if (dpi > 96 * 1.5) {
         return 2.0;
     }
     return 1.0;
