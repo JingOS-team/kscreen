@@ -1,0 +1,7 @@
+TODO:
+	* kscreen-console.1 manpage:
+	  + replace standard options with a reference to kdeoptions manpage
+
+	* how to handle per user unload/load of kded module after installation?
+	  At the moment there's only the note in README.debian
+

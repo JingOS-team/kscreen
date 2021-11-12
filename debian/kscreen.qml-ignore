@@ -1,0 +1,8 @@
+# In kscreen.deb
+org.kde.kscreen
+# Was renamed to CamelCase for some reason in 5.13git
+org.kde.KScreen
+
+# <kbroulik> that's not an installable plugin
+# <kbroulik> it's runtime-registered by the applet
+org.kde.private.kscreen

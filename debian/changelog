@@ -1,0 +1,619 @@
+kscreen (4:5.20.5) focal; urgency=medium
+
+  * Format version
+
+ -- JingOS CI <jingos@jingos.com>  Nov, 12 Fri 2021 15:51:18 +0800
+
+kscreen (4:5.20.4-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 01 Dec 2020 15:18:53 +0000
+
+kscreen (4:5.20.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 10 Nov 2020 21:13:14 +0000
+
+kscreen (4:5.20.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 27 Oct 2020 16:28:40 +0000
+
+kscreen (4:5.20.1-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 20 Oct 2020 13:05:51 +0000
+
+kscreen (4:5.20.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 12 Oct 2020 11:16:56 +0000
+
+kscreen (4:5.19.5-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 01 Sep 2020 18:19:09 +0000
+
+kscreen (4:5.19.4-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 28 Jul 2020 14:15:15 +0000
+
+kscreen (4:5.19.3-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 07 Jul 2020 13:25:57 +0000
+
+kscreen (4:5.19.2-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 23 Jun 2020 13:28:14 +0000
+
+kscreen (4:5.19.1-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 16 Jun 2020 14:20:53 +0000
+
+kscreen (4:5.19.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 08 Jun 2020 11:34:17 +0000
+
+kscreen (4:5.18.5-0neon) bionic; urgency=medium
+
+  [ Jonathan Riddell ]
+  * new release
+
+  [ Neon CI ]
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 05 May 2020 16:17:45 +0000
+
+kscreen (4:5.18.3-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 10 Mar 2020 14:49:01 +0000
+
+kscreen (4:5.18.2-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 25 Feb 2020 17:19:29 +0000
+
+kscreen (4:5.18.1-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Feb 2020 13:06:53 +0000
+
+kscreen (4:5.18.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 09 Feb 2020 22:37:02 +0000
+
+kscreen (4:5.17.5-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Jan 2020 13:38:14 +0000
+
+kscreen (4:5.17.4-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 03 Dec 2019 15:15:44 +0000
+
+kscreen (4:5.17.3-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 12 Nov 2019 13:47:55 +0000
+
+kscreen (4:5.17.2-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 29 Oct 2019 22:33:40 +0000
+
+kscreen (4:5.17.1-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 22 Oct 2019 21:29:27 +0000
+
+kscreen (4:5.17.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 14 Oct 2019 15:43:01 +0000
+
+kscreen (4:5.16.5-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 03 Sep 2019 14:44:52 +0000
+
+kscreen (4:5.16.4-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 30 Jul 2019 12:24:24 +0000
+
+kscreen (4:5.16.3-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 09 Jul 2019 17:12:40 +0000
+
+kscreen (4:5.16.2-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 25 Jun 2019 14:11:39 +0000
+
+kscreen (4:5.16.1-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 18 Jun 2019 13:28:01 +0000
+
+kscreen (4:5.16.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 10 Jun 2019 09:20:36 +0000
+
+kscreen (4:5.15.5-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 07 May 2019 12:23:33 +0000
+
+kscreen (4:5.15.4-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 02 Apr 2019 12:58:58 +0000
+
+kscreen (4:5.15.3-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 12 Mar 2019 12:14:51 +0000
+
+kscreen (4:5.15.2-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 26 Feb 2019 16:22:10 +0000
+
+kscreen (4:5.15.1-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 20 Feb 2019 14:42:52 +0000
+
+kscreen (4:5.15.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 11 Feb 2019 14:24:05 +0000
+
+kscreen (4:5.14.5-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 08 Jan 2019 13:18:59 +0000
+
+kscreen (4:5.14.4-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 27 Nov 2018 17:28:24 +0000
+
+kscreen (4:5.14.3-1) unstable; urgency=medium
+
+  * Update upsteam signing-key
+  * New upstream release (5.14.3).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (4:5.14)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 23 Nov 2018 08:50:46 -0300
+
+kscreen (4:5.13.5-1) unstable; urgency=medium
+
+  * New upstream release (5.13.5).
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 06 Sep 2018 20:40:33 +0200
+
+kscreen (4:5.13.4-1) unstable; urgency=medium
+
+  * New upstream release (5.13.4).
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 19 Aug 2018 23:18:01 +0200
+
+kscreen (4:5.13.1-1) unstable; urgency=medium
+
+  * New upstream release (5.13.1).
+  * Update build-deps and deps with the info from cmake
+  * testsuite: Update the test
+  * Bump group breaks (4:5.13)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 26 Jun 2018 13:43:00 +0200
+
+kscreen (4:5.12.3-1) sid; urgency=medium
+
+  * Use the salsa canonical urls
+  * New upstream release (5.12.2).
+  * New upstream release (5.12.3).
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 07 Mar 2018 19:14:05 +0100
+
+kscreen (4:5.12.0-2) sid; urgency=medium
+
+  * New revision
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Feb 2018 16:03:36 +0100
+
+kscreen (4:5.12.0-1) experimental; urgency=medium
+
+  * Bump debhelper build-dep and compat to 11.
+  * Build without build_stamp
+  * Add link options as-needed
+  * Add Bhushan Shah upstream signing key
+  * New upstream release (5.12.0).
+  * Bump Standards-Version to 4.1.3.
+  * Use https uri for uscan
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 08 Feb 2018 15:20:41 +0100
+
+kscreen (4:5.11.4-1) experimental; urgency=medium
+
+  * New upstream release (5.11.4).
+  * Bump Standards-Version to 4.1.2.
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 03 Jan 2018 16:48:56 -0300
+
+kscreen (4:5.10.5-2) sid; urgency=medium
+
+  * New revision
+  * Bump Standards-Version to 4.1.0.
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 03 Sep 2017 09:55:24 +0200
+
+kscreen (4:5.10.5-1) experimental; urgency=medium
+
+  * New upstream release (5.10.3).
+  * Bump Standards-Version to 4.0.0.
+  * Update upstream metadata
+  * Sync watch file and signing-key.asc with neon
+  * New upstream release (5.10.4).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.10.5).
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Aug 2017 15:29:16 +0200
+
+kscreen (4:5.8.5-2) unstable; urgency=medium
+
+  * Add upower as a recommends.
+    Thanks to Éter for reporting (Closes: 853171)
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 13 Mar 2017 14:20:57 +0100
+
+kscreen (4:5.8.5-1) experimental; urgency=medium
+
+  * New upstream release (5.8.5).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 30 Dec 2016 18:46:16 +0100
+
+kscreen (4:5.8.4-1) unstable; urgency=medium
+
+  * New upstream release (5.8.4)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 18:35:52 +0100
+
+kscreen (4:5.8.2-1) unstable; urgency=medium
+
+  * New upstream release (5.8.2)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 15:26:20 +0200
+
+kscreen (4:5.8.1-1) unstable; urgency=medium
+
+  * New upstream release (5.8.1)
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 16 Oct 2016 23:00:47 +0200
+
+kscreen (4:5.8.0-2) unstable; urgency=medium
+
+  * Bump libkf5screen-dev build dependency version (Closes: 840067)
+    Thanks to Chris Lamb for the report
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Oct 2016 10:53:47 +0200
+
+kscreen (4:5.8.0-1) unstable; urgency=medium
+
+  * New upstream release (5.8.0)
+  * Replace dbus-launch with dbus-run-session in tests
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 07 Oct 2016 14:08:34 +0200
+
+kscreen (4:5.7.4-1) unstable; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.7.4)
+
+  [ Pino Toscano ]
+  * Remove unused libqjson-dev build dependency.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 27 Aug 2016 00:11:42 +0200
+
+kscreen (4:5.7.0-1) unstable; urgency=medium
+
+  * Update install files
+  * Revert "Update install files"
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 09 Jul 2016 19:52:48 +0200
+
+kscreen (4:5.6.5-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 11:01:17 +0200
+
+kscreen (4:5.6.4-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 May 2016 20:00:42 +0200
+
+kscreen (4:5.6.4-1) experimental; urgency=medium
+
+  [ Rohan Garg ]
+  * Make sure kscreen depends on libkf5screen-bin.
+
+  [ Maximiliano Curia ]
+  * Bump build dependency of the libkscreen version, drop libkf5screen-bin
+    dependency, it's part of libkscreen's symbols file.
+  * uscan no longer supports this kind of watch files.
+  * New upstream release (5.5.5).
+  * Force installing in debian/tmp
+  * Automatic update with ddeb_migration3.py
+  * Add upstream metadata (DEP-12)
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+  [ Automatic packaging ]
+  * Refresh patches
+  * Bump Standards-Version to 3.9.8
+  * Refresh patches
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 May 2016 10:31:19 +0200
+
+kscreen (4:5.5.4-1) experimental; urgency=medium
+
+  * New upstream release (5.5.0).
+  * New upstream release (5.5.1).
+  * New upstream release (5.5.2).
+  * New upstream release (5.5.3).
+  * New upstream release (5.5.4).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 16:48:53 +0100
+
+kscreen (4:5.4.3-1) unstable; urgency=medium
+
+  * New upstream release (5.4.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:45:44 +0100
+
+kscreen (4:5.4.2-1) unstable; urgency=medium
+
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 09:22:13 +0200
+
+kscreen (4:5.4.1-1) unstable; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:45:03 +0200
+
+kscreen (4:5.4.0-1) unstable; urgency=medium
+
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 04 Sep 2015 09:12:06 +0200
+
+kscreen (4:5.3.2-4) unstable; urgency=high
+
+  * Team upload.
+  * Fix spelling of qml-module-qtgraphicaleffects
+
+ -- Scott Kitterman <scott@kitterman.com>  Sun, 26 Jul 2015 18:44:47 -0400
+
+kscreen (4:5.3.2-3) unstable; urgency=high
+
+  * Team upload.
+  * High urgency for RC bug fix for stretch
+  * Add missing depends on plasma-framework and qml-module-graphicaleffects
+    (Closes: #791437)
+
+ -- Scott Kitterman <scott@kitterman.com>  Sun, 26 Jul 2015 14:52:54 -0400
+
+kscreen (4:5.3.2-2) unstable; urgency=medium
+
+  * Team upload
+  * Add kde-cli-tools to depends for kcmshell5 (Closes: #791340)
+
+ -- Scott Kitterman <scott@kitterman.com>  Sun, 12 Jul 2015 13:09:32 -0400
+
+kscreen (4:5.3.2-1) unstable; urgency=medium
+
+  * New upstream release (5.3.0).
+  * New upstream release (5.3.1).
+  * New upstream release (5.3.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 12:31:53 +0200
+
+kscreen (4:5.3.2-0ubuntu2) wily; urgency=medium
+
+  * Add kubuntu_disable-test.diff to disable failing test
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 13 Jul 2015 13:37:40 +0200
+
+kscreen (4:5.3.1-0ubuntu1) wily; urgency=medium
+
+  [ Jonathan Riddell ]
+  * Plasma 5.3 beta
+  * new upstream release
+
+  [ Scarlett Clark ]
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 05 Jun 2015 02:31:37 +0200
+
+kscreen (4:5.2.2-1) experimental; urgency=medium
+
+  * New upstream release (5.2.1).
+  * New upstream release (5.2.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 23:17:25 +0100
+
+kscreen (4:5.2.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 07:21:29 -0700
+
+kscreen (4:5.2.1-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 09:40:46 -0800
+
+kscreen (4:5.2.0-1) experimental; urgency=medium
+
+  * Prepare initial Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update copyright information.
+  * Update install files.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 09 Feb 2015 22:04:30 +0100
+
+kscreen (4:5.2.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 27 Jan 2015 14:53:31 +0100
+
+kscreen (4:5.1.95-0ubuntu2) vivid; urgency=medium
+
+  * version build-dep on libkf5screen-dev
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 16 Jan 2015 12:34:26 +0100
+
+kscreen (4:5.1.95-0ubuntu1) vivid; urgency=medium
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 15 Jan 2015 01:30:43 +0100
+
+kscreen (2.0.0~git20140827-0ubuntu1~ubuntu14.10~ppa1) utopic; urgency=medium
+
+  [ Scarlett Clark ]
+  * Update packaging for frameworks branch
+  * Git snapshot of the frameworks branch
+
+  [ Jonathan Riddell ]
+  * Remove kscreen-console.1 manpage which is out of date
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 20 Aug 2014 08:35:15 -0700
+
+kscreen (1.0.2.1-0ubuntu1) trusty; urgency=low
+
+  * New upstream release
+  * Update debian/watch
+  * Bump b-dep on libkscreen-dev to (>= 1.0.2)
+
+ -- Jackson Doak <noskcaj@ubuntu.com>  Sat, 23 Nov 2013 06:31:01 +1100
+
+kscreen (1.0.1-0ubuntu1) saucy; urgency=low
+
+  * New upstream release. (LP: #1208413)
+  * Make sure it compiles with libkscreen >= 1.0.1.
+
+ -- Howard Chan <smartboyhw@gmail.com>  Sun, 04 Aug 2013 18:33:33 +0800
+
+kscreen (1.0-0ubuntu1) saucy; urgency=low
+
+  * New upstream release. (LP: #1194491)
+
+ -- Howard Chan <smartboyhw@gmail.com>  Tue, 25 Jun 2013 22:18:18 +0800
+
+kscreen (0.0.92-0ubuntu2) saucy; urgency=low
+
+  * No change rebuild against updated libkscreen
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 08 May 2013 16:11:10 +0100
+
+kscreen (0.0.92-0ubuntu1) saucy; urgency=low
+
+  * New upstream release (LP: #1177333)
+    - Drop upstream_l10n.patch, included upstream
+    - Bump libkscreen-dev Build Depend to 0.0.92
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 07 May 2013 00:17:04 +0100
+
+kscreen (0.0.81-0ubuntu2) raring; urgency=low
+
+  * Add upstream_l10n.patch adding translations (mostly entire po files)
+    that were not part of the original release as the used release script
+    was rubbish.
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Wed, 17 Apr 2013 14:01:59 +0200
+
+kscreen (0.0.81-0ubuntu1) raring; urgency=low
+
+  * New upstream release candidate
+  * Set maintainer to Kubuntu Developers
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 29 Mar 2013 21:38:07 +0100
+
+kscreen (0.0.71+git20130311-0ubuntu1) raring; urgency=low
+
+  * New upstream snapshot.
+  * Make build-depends libkscreen (>= 0.0.71+git20130311 so it can build
+
+ -- Howard Chan <smartboyhw@gmail.com>  Mon, 11 Mar 2013 21:24:40 +0800
+
+kscreen (0.0.71-0ubuntu1) raring; urgency=low
+
+  * Initial release
+
+ -- Achim Bohnet <allee@kubuntu.org>  Mon, 21 Jan 2013 00:22:05 +0100

@@ -1,6 +1,7 @@
 /********************************************************************
 Copyright © 2019 Roman Gilg <subdiff@gmail.com>
 Copyright © 2012 Dan Vratil <dvratil@redhat.com>
+Copyright (C) 2021 Dexiang Meng <dexiang.meng@jingos.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -20,6 +21,7 @@ import QtQuick.Layouts 1.1
 import QtQuick.Controls 2.3 as Controls
 import QtGraphicalEffects 1.0
 import org.kde.kirigami 2.4 as Kirigami
+import jingos.display 1.0
 
 Item {
     id: output
@@ -45,11 +47,11 @@ Item {
     onVisibleChanged: screen.resetTotalSize()
     onOutputSizeChanged: screen.resetTotalSize()
 
-    x: model.position ? model.position.x / screen.relativeFactor + screen.xOffset : 0
-    y: model.position ? model.position.y / screen.relativeFactor + screen.yOffset : 0
+    x: model.position ? model.position.x / screen.relativeFactor + screen.xOffset : JDisplay.dp(0)
+    y: model.position ? model.position.y / screen.relativeFactor + screen.yOffset : JDisplay.dp(0)
 
-    width: model.size ? model.size.width / screen.relativeFactor : 1
-    height: model.size ? model.size.height / screen.relativeFactor : 1
+    width: model.size ? model.size.width / screen.relativeFactor : JDisplay.dp(1)
+    height: model.size ? model.size.height / screen.relativeFactor : JDisplay.dp(1)
 
     SystemPalette {
         id: palette
@@ -57,7 +59,7 @@ Item {
 
     Rectangle {
         id: outline
-        radius: 4
+        radius: JDisplay.dp(4)
         color: palette.window
 
         anchors.fill: parent
@@ -79,7 +81,7 @@ Item {
 
         ColumnLayout {
             anchors.centerIn: parent
-            spacing: 0
+            spacing: JDisplay.dp(0)
             width: parent.width
             Layout.maximumHeight: parent.height
 
@@ -107,11 +109,11 @@ Item {
     Rectangle {
         id: posLabel
 
-        y: 4
-        x: 4
-        width: childrenRect.width + 5
-        height: childrenRect.height + 2
-        radius: 4
+        y: JDisplay.dp(4)
+        x: JDisplay.dp(4)
+        width: childrenRect.width + JDisplay.dp(5)
+        height: childrenRect.height + JDisplay.dp(2)
+        radius: JDisplay.dp(4)
 
         opacity: model.enabled &&
                  (tapHandler.isLongPressed || dragHandler.active) ? 0.9 : 0.0
@@ -122,8 +124,8 @@ Item {
         Text {
             id: posLabelText
 
-            y: 2
-            x: 2
+            y: JDisplay.dp(2)
+            x: JDisplay.dp(2)
 
             text: model.normalizedPosition.x + "," + model.normalizedPosition.y
             color: "white"
@@ -145,9 +147,9 @@ Item {
         width: output.width / 5
         anchors.top: output.top
         anchors.right: output.right
-        anchors.margins: 5
+        anchors.margins: JDisplay.dp(5)
 
-        visible: model.replicasModel.length > 0
+        visible: model.replicasModel.length > JDisplay.dp(0)
         icon.name: "osd-duplicate"
 
         Controls.ToolTip {
@@ -180,7 +182,7 @@ Item {
                 bottom: parent.bottom
             }
 
-            height: 10
+            height: JDisplay.dp(10)
             color: isSelected ? palette.highlight : palette.shadow
             smooth: true
 
@@ -199,7 +201,7 @@ Item {
             PropertyChanges {
                 target: orientationPanel
                 height: undefined
-                width: 10
+                width: JDisplay.dp(10)
             }
             AnchorChanges {
                 target: orientationPanel
@@ -222,7 +224,7 @@ Item {
             PropertyChanges {
                 target: orientationPanel
                 height: undefined
-                width: 10
+                width: JDisplay.dp(10)
             }
             AnchorChanges {
                 target: orientationPanel
